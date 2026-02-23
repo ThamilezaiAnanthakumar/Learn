@@ -1,7 +1,7 @@
-IdxPPG
+IdxPPG - Foundational
 =====
 
-PPG-based heart rate estimation under sport conditions.
+PPG-based heart rate estimation under sport conditions using bilateral analysis.
 
 ## Setup
 
