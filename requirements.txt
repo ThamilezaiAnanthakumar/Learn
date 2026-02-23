@@ -1,0 +1,14 @@
+torch
+pandas
+matplotlib
+joblib
+scipy 
+scikit-learn 
+tqdm
+dotmap
+vitaldb
+openpyxl
+torch-ecg
+pytorch_metric_learning
+pyPPG==1.0.41
+numpy=1.26.4
